@@ -1,0 +1,38 @@
+# Dashboard de E-commerce
+
+## Sobre o projeto
+
+Aplicação interativa desenvolvida em Python para explorar e visualizar dados de um conjunto de produtos de e-commerce.
+
+O projeto utiliza gráficos estatísticos para analisar características dos produtos, preços, avaliações e distribuição por marcas e gêneros.
+
+## Tecnologias utilizadas
+
+* Python
+* Pandas
+* Plotly
+* Dash
+* NumPy
+* SciPy
+* Statsmodels
+
+## Visualizações
+
+* Histograma: distribuição das notas dos produtos.
+* Gráfico de dispersão: relação entre número de avaliações e preço.
+* Mapa de calor: correlação entre variáveis numéricas.
+* Gráfico de barras: 10 marcas com mais produtos cadastrados.
+* Gráfico de pizza: cinco gêneros mais frequentes.
+* Gráfico de densidade: distribuição dos preços.
+* Regressão linear: tendência da relação entre avaliações e preço.
+
+## Como executar
+
+1. Clone este repositório.
+2. Instale as dependências com `pip install -r requirements.txt`.
+3. Execute `python app.py`.
+4. Abra `http://127.0.0.1:8050/` no navegador.
+
+## Objetivo
+
+Praticar análise exploratória de dados, visualização estatística e desenvolvimento de dashboards interativos com Python.
